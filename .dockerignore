@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de banco de dados local
+escola.db
+
+# Arquivos do Git
+.git
+.gitignore
+
+# Arquivos do Docker
+Dockerfile
